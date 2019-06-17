@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Radiohead",
+        "album": "The King of Limbs",
+        "topSong": "Bloom",
+        "length": "5:15",
+        "description": "\n\tThe King of Limbs is the eighth studio album by English rock band Radiohead, produced by Nigel Godrich. It was self-released on 18 February 2011 as a download in MP3 and WAV formats, followed by physical CD and 12"
+    },
+    {
+        "id": 2,
+        "name": "Portishead",
+        "album": "Dummy",
+        "topSong": "Mysterons",
+        "length": "5:02",
+        "description": "\n\tDummy is the debut album of the Bristol-based group Portishead. Released in August 22, 1994 on Go! Discs, the album earned critical acclaim, winning the 1995 Mercury Music Prize. It is often credited with popularizing the trip-hop genre and is frequently cited in lists of the best albums of the 1990s. Although it achieved modest chart success overseas, it peaked at #2 on the UK Album Chart and saw two of its three singles reach #13. The album was certified gold in 1997 and has sold two million copies in Europe. As of September 2011, the album was certified double-platinum in the United Kingdom and has sold as of September 2011 825,000 copies.\n      "
+    },
+    {
+        "id": 3,
+        "name": "Michael Jackson",
+        "album": "Thriller",
+        "topSong": "Billie Jean",
+        "length": "4:32",
+        "description": "\n\tThriller was the second solo album following Off the Wall. It holds the record for most Grammys to this day. "
+    },
+    {
+        "id": 4,
+        "name": "Michael Jackson",
+        "album": "Dangerous",
+        "topSong": "Free Willy Theme",
+        "length": "5:12",
+        "description": "\n\tJust a dop song imo. "
+    },
+    {
+        "id": 5,
+        "name": "Drake",
+        "album": "If You're Reading This, It's Too Late",
+        "topSong": "6 Man",
+        "length": "4:22",
+        "description": "\n\tThe 2015 trap jumper."
+    },
+    {
+        "id": 6,
+        "name": "Future",
+        "album": "WZRD",
+        "topSong": "Jumpin' on a Jet",
+        "length": "4:45",
+        "description": "\n\t2019 Theme Song so far."
+    }
+]
